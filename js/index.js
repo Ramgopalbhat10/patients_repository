@@ -48,9 +48,9 @@ $(document).ready(function() {
 					 $(this).find('td').eq(1).text() === last) {
 						$(this).css("background", "#03a9f4");
 				}
-				else {
-					alert("Data not found");
-				}
+// 				else {
+// 					alert("Data not found");
+// 				}
 			});
 		}
 		search(f_search, l_search);
