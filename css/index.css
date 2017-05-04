@@ -1,0 +1,69 @@
+body {
+	height: 100vh;
+}
+
+.screens {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+}
+
+.screen1 {
+	margin-left: 30px;
+	width: 30%;
+}
+h3 {
+	text-align: center;
+}
+.screen2 {
+	width: 60%;
+}
+
+.names {
+	display: flex;
+	justify-content: space-between;
+}
+.name1, .name2 {
+	width: 45%;
+}
+.age-dob {
+	display: flex;
+}
+.dob1 {
+	flex: 2;
+	margin-left: 40px;
+}
+.age1 {
+	flex: 1;
+}
+.bt-submit {
+	display: flex;
+}
+
+/*searching*/
+.screen2 {
+	margin-right: 30px;
+}
+.searching {
+	display: flex;
+	justify-content: center;
+}
+.searching > * {
+	margin-left: 15px;
+}
+#f-search, #l-search {
+	width: 30%;
+}
+
+.search-show {
+	margin-top: 20px;
+}
+/*.tags {
+	display: flex;
+	justify-content: space-between;
+}*/
+
+.v-line {
+	width: 2px;
+	background-color: rgba(221,221,221,1);
+}

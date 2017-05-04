@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "fname": "Ramgopal",
+            "lname": "Bhat",
+            "age": "21",
+            "dob": "2017-05-02",
+            "cell": "8333023021",
+            "about": "Good",
+            "submit": "Submit"
+        }
+    ],
+    [
+        {
+            "fname": "Shruthi",
+            "lname": "Bhat",
+            "age": "25",
+            "dob": "2017-05-03",
+            "cell": "8142381371",
+            "about": "Healthy",
+            "submit": "Submit"
+        }
+    ]
+]
